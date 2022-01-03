@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: htpps://epicbooks.github.io/sketch-books/sitemapx.xml
